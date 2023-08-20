@@ -1,6 +1,7 @@
 # Getting Started with Docker
 
-Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton)
+Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton).
+
 Cloned by `@thoriqmacto` on 2023.08.20
 
 ## first-container
