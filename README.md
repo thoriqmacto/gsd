@@ -28,3 +28,10 @@ This folder contains the files to build a multi-container web app with Swarm Sta
 ## TMP
 
 The `container`, `compose`, and `swarm` folders are hosting temp files for the next update to the course.
+
+## Self-note
+
+A good recap from the course on Part-3 "Deploying a Containerized App" which highlighted where docker positions in virtualization world.
+See below snapshot.
+
+![Docker as virtualization of OS(Kernel)](https://github.com/thoriqmacto/gsd/clone/blob/recap-snap/snap_01_dockerAsVirtualOS.png)
