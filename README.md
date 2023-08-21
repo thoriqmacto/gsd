@@ -34,4 +34,4 @@ The `container`, `compose`, and `swarm` folders are hosting temp files for the n
 A good recap from the course on Part-3 "Deploying a Containerized App" which highlighted where docker positions in virtualization world.
 See below snapshot.
 
-![Docker as virtualization of OS(Kernel)](https://github.com/thoriqmacto/gsd/clone/blob/recap-snap/snap_01_dockerAsVirtualOS.png)
+![Docker as virtualization of OS(Kernel)](./recap-snap/snap_01_dockerAsVirtualOS.png)
